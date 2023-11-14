@@ -1,0 +1,1 @@
+// Shows detailed information about a single book
